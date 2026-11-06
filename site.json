@@ -1,0 +1,12 @@
+{
+  "slug": "pixelspec",
+  "brand": "Pixelspec",
+  "kicker": "Make every upload fit.",
+  "title": "BIG IMAGE.<br><em>SMALL FILE.</em>",
+  "desc": "Resize, crop and compress images for your next upload. Set your dimensions. Keep an eye on every kilobyte.",
+  "accent": "#2454f5",
+  "dark": "#151f42",
+  "kind": "image",
+  "port": "4177",
+  "design": "geometric image lab / cobalt / yellow"
+}
